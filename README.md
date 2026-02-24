@@ -18,6 +18,10 @@ Advanced sit script with automatic chair detection and smooth animations.
 - 🔧 **Framework Support** - ESX, QBCore, or Standalone
 - ⚙️ **Highly Configurable** - Customize everything in config.lua
 
+## 📷 Preview
+
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRtMzR5Zzk3a2pwcGNlZm42cnU5NjQ5dzJqMGdtbDR3OTI2NWo5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DxlMSX8OAjanMSWj9w/giphy.gif
+
 ## 📦 Installation
 
 1. Download and extract `Agency-Sit` to your `resources` folder
