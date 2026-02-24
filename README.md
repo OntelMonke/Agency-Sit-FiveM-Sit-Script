@@ -1,4 +1,4 @@
-![Adobe Express - Timeline 1](https://github.com/user-attachments/assets/25e31d69-96ed-466f-98f3-9b84322a0fc2)# Agency-Sit
+# Agency-Sit
 
 Advanced sit script with automatic chair detection and smooth animations.
 
