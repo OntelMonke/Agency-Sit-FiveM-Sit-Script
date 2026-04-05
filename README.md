@@ -6,7 +6,7 @@ Advanced sit script with automatic chair detection and smooth animations.
 ## 🔗 Links
 
 - **Discord Support:** https://discord.gg/zbG53tTUXR
-- **Shop:** https://agency-script.tebex.io
+- **Shop:** https://shop.agencyg.de/
 - **Agency-Notify:** https://agency-script.tebex.io/package/6937769
 
 ## ✨ Features
