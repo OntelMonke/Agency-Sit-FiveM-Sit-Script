@@ -1,5 +1,5 @@
 # Agency-Sit
-<img width="3840" height="2160" alt="Agency Sit" src="https://github.com/user-attachments/assets/f26d98ac-13fe-410d-8c86-0cefde5d84b3" />
+![thumbnail-agency-sit](https://github.com/user-attachments/assets/fd6210ff-f593-4735-948e-298edce76eda)
 
 Advanced sit script with automatic chair detection and smooth animations.
 
